@@ -16,10 +16,10 @@ Se muestra el algoritmo para marcar y crear un conjunto de datos con el tipo de 
 
 Se muestra el algoritmo para Calcular el Índice de Masa Corporal (IMC) de un paciente
 Aquí usamos: 
-✔ Entrada de datos (input())
-✔ Cálculos (peso / altura^2)
-✔ Condiciones (if, elif, else)
-✔ Formato de salida ({imc:.2f} redondea a 2 decimales)
+- ✔ Entrada de datos (input())
+- ✔ Cálculos (peso / altura^2)
+- ✔ Condiciones (if, elif, else)
+- ✔ Formato de salida ({imc:.2f} redondea a 2 decimales)
 
 ##
 
