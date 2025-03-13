@@ -12,7 +12,7 @@ Se muestra el algoritmo para detectar y marcar aquellos pacientes (uno por regis
 
 Se muestra el algoritmo para marcar y crear un conjunto de datos con el tipo de readmisiones hospitalarias que se desee, según el parámetro que se utilice para componer el conjunto de datos para un tipo determinado de Readmisión. 
 
-### Calcular el Índice de Masa Corporal (IMC) de un paciente [Ver mi archivo](Salud_Algoritmos_Python/blob/main/Calcular%20el%20%C3%8Dndice%20de%20Masa%20Corporal%20(IMC)%20de%20un%20paciente.py)
+### Calcular el Índice de Masa Corporal (IMC) de un paciente [Ver mi archivo](Calcular%20el%20%C3%8Dndice%20de%20Masa%20Corporal%20(IMC)%20de%20un%20paciente.py)
 
 Se muestra el algoritmo para Calcular el Índice de Masa Corporal (IMC) de un paciente
 Aquí usamos: 
